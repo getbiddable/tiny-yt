@@ -3,6 +3,7 @@
   "name": "tiny-yt",
   "description": "Pop YouTube videos into a tiny always-on-top Picture-in-Picture window",
   "version": "1.0.0",
+  "minimum_chrome_version": "70",
   "permissions": ["activeTab", "scripting"],
   "action": {
     "default_icon": {
